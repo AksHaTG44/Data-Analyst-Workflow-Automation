@@ -2,7 +2,6 @@
 
 An end-to-end data analytics workflow that collects job-market and developer-survey data from multiple sources, cleans and normalizes it, and analyzes it to identify which programming languages, databases, and development tools are most in demand.
 
-Completed as the capstone project of the **IBM Data Analyst Professional Certificate**.
 
 ---
 
