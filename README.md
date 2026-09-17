@@ -100,9 +100,6 @@ Run the notebooks in order: API collection → web scraping → M1 → M2 → M3
 
 ---
 
-## Notes and Attribution
-
-The notebook scaffolding and lab prompts originate from the IBM Skills Network course material for the IBM Data Analyst Professional Certificate (original lab authors: Ramesh Sannareddy and Rav Ahuja), released under the MIT License. The analysis code, query logic, and visualizations within the notebooks are my own work.
 
 ---
 
