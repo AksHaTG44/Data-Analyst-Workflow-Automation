@@ -45,13 +45,6 @@ The cleaned data was queried from a SQLite database with SQL and visualized to s
 
 ---
 
-## Key Findings
-
-- Python leads the scraped salary table on demand-weighted presence, while **Swift commands the highest average annual salary (~$130,800)**, ahead of Python (~$114,400) and JavaScript (~$111,000).
-- Reported compensation is strongly right-skewed: a small group of very high earners pulls the mean well above the median, making the median the appropriate summary statistic.
-- Demand signals from job postings do not map cleanly onto salary rankings — the most frequently requested languages are not always the best paid, which matters when translating this analysis into hiring or upskilling recommendations.
-
----
 
 ## Tech Stack
 
